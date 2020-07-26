@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "583452591702",
+    "firebase_url": "https://bandnamesurvey-b59ea.firebaseio.com",
+    "project_id": "bandnamesurvey-b59ea",
+    "storage_bucket": "bandnamesurvey-b59ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583452591702:android:d4bcdabda3a301cec21df7",
+        "android_client_info": {
+          "package_name": "com.treav.fireapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583452591702-ih7l3jl8iae1vbhcq2l1dk34u9elpb7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS9FzM1r_Xk69OpBKzk1Hr-Q2NyGkVbIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583452591702-ih7l3jl8iae1vbhcq2l1dk34u9elpb7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
